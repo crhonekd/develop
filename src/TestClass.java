@@ -7,7 +7,6 @@ public class TestClass {
         System.out.println("Third invalid commit");
 
         System.out.println("Fourth valid commit");
-    }
 
     public static void hello() {
         System.out.println("This is fix of broken");
