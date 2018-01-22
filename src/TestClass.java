@@ -8,4 +8,8 @@ public class TestClass {
 
         System.out.println("Fourth valid commit");
     }
+
+    public static void hello() {
+        System.out.println("I am broken");
+    }
 }
