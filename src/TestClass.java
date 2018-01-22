@@ -10,8 +10,4 @@ public class TestClass {
 
         System.out.println("Sixth valid commit");
     }
-
-    public static void hello() {
-        System.out.println("I am broken");
-    }
 }
