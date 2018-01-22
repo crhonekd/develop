@@ -3,5 +3,7 @@ public class TestClass {
         System.out.println("Hello World");
 
         System.out.println("Second valid commit");
+
+        System.out.println("Third invalid commit");
     }
 }
