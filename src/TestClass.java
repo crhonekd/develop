@@ -7,6 +7,8 @@ public class TestClass {
         System.out.println("Third invalid commit");
 
         System.out.println("Fourth valid commit");
+
+        System.out.println("Sixth valid commit");
     }
 
     public static void hello() {
