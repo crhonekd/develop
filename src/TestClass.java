@@ -10,6 +10,6 @@ public class TestClass {
     }
 
     public static void hello() {
-        System.out.println("I am broken");
+        System.out.println("This is fix of broken");
     }
 }
